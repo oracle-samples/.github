@@ -1,5 +1,5 @@
 
-![Oracle Logo](https://raw.githubusercontent.com/oracle-samples/.github/875c9e5724c788bf92458dc61f56e46157b92f5f/profile/OGHO-banners-samples-cut.png "Open source at Oracle. Everyone is invited. Let's collaborate together")
+![Oracle Logo](https://raw.githubusercontent.com/oracle-samples/.github/main/profile/ogho-banner-new.png "Open source at Oracle. Everyone is invited. Let's collaborate together")
 
 # Oracle Sample Projects
 
